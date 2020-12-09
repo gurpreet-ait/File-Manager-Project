@@ -1,0 +1,9 @@
+To Run the Project Simply download the Code
+Prerequisites:
+  -jdk installed
+  -check whether it installed by running command on your cmd 
+      Command : javac -version
+Run  Server: javac ./ServerSide/Main.java
+    then : java ServerSide.Main
+Run Client : javac ./ClientSide/ClientNWFileSharing.java
+    then : java ClientSide.ClientNWFileSharing
